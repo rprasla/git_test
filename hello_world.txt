@@ -1,2 +1,3 @@
 TESTING GIT TO ADD SOME CODE.
 HELLO WORLD.
+Testing commit command.
